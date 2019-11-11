@@ -12,6 +12,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -47,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573470023390</updated>
-      <workItem from="1573470024724" duration="656000" />
+      <workItem from="1573470024724" duration="1191000" />
     </task>
     <servers />
   </component>
